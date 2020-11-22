@@ -1,3 +1,4 @@
+
 module.exports = {
   publicPath: '/Github-Explorer-Vue/',
   pwa: {

@@ -11,7 +11,7 @@ module.exports = {
     manifestOptions: {
       name: 'Github Explorer',
       short_name: 'GitEx',
-      start_url: '/',
+      start_url: '/index.html',
       display: 'standalone',
       theme_color: '#e5e5e5'
     },

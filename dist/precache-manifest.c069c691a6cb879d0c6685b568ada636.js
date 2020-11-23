@@ -92,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Github-Explorer-vue/dist/js/repository.93e9a036.js"
   },
   {
-    "revision": "619b0a1839446659e9166662f0cd924b",
+    "revision": "e361b0d26041d947266c4e24c7730c8a",
     "url": "/Github-Explorer-vue/dist/manifest.json"
   },
   {

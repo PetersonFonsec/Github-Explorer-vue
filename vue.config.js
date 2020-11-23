@@ -1,6 +1,6 @@
 
 module.exports = {
-  publicPath: '/Github-Explorer-Vue/dist/',
+  publicPath: '/Github-Explorer-vue/dist/',
   pwa: {
     name: 'Github Explorer',
     themeColor: '#e5e5e5',
